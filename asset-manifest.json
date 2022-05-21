@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/healthyfood-react/static/css/main.e808745f.css",
+    "main.js": "/healthyfood-react/static/js/main.09285004.js",
+    "static/js/787.9da6df4a.chunk.js": "/healthyfood-react/static/js/787.9da6df4a.chunk.js",
+    "index.html": "/healthyfood-react/index.html",
+    "main.e808745f.css.map": "/healthyfood-react/static/css/main.e808745f.css.map",
+    "main.09285004.js.map": "/healthyfood-react/static/js/main.09285004.js.map",
+    "787.9da6df4a.chunk.js.map": "/healthyfood-react/static/js/787.9da6df4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e808745f.css",
+    "static/js/main.09285004.js"
+  ]
+}
